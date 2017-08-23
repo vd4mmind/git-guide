@@ -66,6 +66,6 @@ git remote -v
 #origin	https://git.ieo.eu/vdas/OvaCa_RNASeq.git (push)
 
 git push origin testDev1 ## pushes and creates the new branch that was made in the local workstation in to the project repo of the gitLab of IEO private
-```
+
 
 
